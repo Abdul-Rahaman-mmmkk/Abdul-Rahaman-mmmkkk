@@ -5,8 +5,6 @@
 
 <summary></summary>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-
 </div>
 
 <hr>
@@ -34,3 +32,5 @@ class Me {
     "Editor" : {"VS 2022 Preview", "VScode"}
   };
 }
+```
+
